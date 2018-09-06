@@ -5,31 +5,17 @@ body{
     color: rgb(255,255,255);
     text-align: center;
 }
-.text-block {
-    position: absolute;
-    bottom: 50px;
-    right: 230px;
-    background-color:#D4AF37;
-    color: white;
-    padding-left: 20px;
-    padding-right: 20px;
-}
-.text-block2 {
-    position: absolute;
-    bottom: 15px;
-    right: 10px;
-    background-color:black;
-    color: black;
-    padding-left: 20px;
-    padding-right: 20px;
-}
 .container{
     width:80%;
     margin:auto;
     overflow:hidden;
     position: relative;
 }
-
+.backround{
+    margin:auto;
+    overflow:hidden;
+    position: relative;
+}
 header{
     background: rgb(0,0,0);
     color:orange;
