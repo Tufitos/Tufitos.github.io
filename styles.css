@@ -15,6 +15,17 @@ body{
     margin:auto;
     overflow:hidden;
     position: relative;
+    padding: 50px;
+}
+#links{
+    padding: 20px;
+}
+#text{
+    padding: 20px;
+}
+#pictureface{
+    min-height:300px;
+    max-height:600px;
 }
 header{
     background: rgb(0,0,0);
